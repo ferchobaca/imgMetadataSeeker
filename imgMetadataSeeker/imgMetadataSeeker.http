@@ -1,0 +1,6 @@
+@imgMetadataSeeker_HostAddress = http://localhost:5266
+
+GET {{imgMetadataSeeker_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
